@@ -16,7 +16,7 @@
 - Cisco Networking
 
 ## Projects
-- Company Profile Website (HDB Airconds)
+- Company Profile Website (HDB Airconds) hdbairconds.id
 - Rental Car Catalog Information System
 
 ## Contact
