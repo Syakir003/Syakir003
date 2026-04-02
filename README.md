@@ -5,7 +5,7 @@
 ## About Me
 - Informatics Management Student at Politeknik Negeri Malang
 - Interested in Web Development & Networking
-- Experience with Laravel, PHP, Python, SQL
+- Experience with Laravel, PHP, Python, SQL, Typescript/React
 
 ## Tech Stack
 - Laravel
@@ -14,6 +14,7 @@
 - MySQL
 - Linux
 - Cisco Networking
+- Typescript/React
 
 ## Projects
 - Company Profile Website (HDB Airconds) hdbairconds.id
