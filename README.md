@@ -19,6 +19,7 @@
 ## Projects
 - Company Profile Website (HDB Airconds) hdbairconds.id
 - Rental Car Catalog Information System
+- Pencak Silat Analyzer For UNESA students majoring in Sports Science
 
 ## Contact
 Email: akhmadabdullahsyakirmi1a@gmail.com
