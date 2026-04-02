@@ -18,8 +18,9 @@
 
 ## Projects
 - Company Profile Website (HDB Airconds) hdbairconds.id
-- Rental Car Catalog Information System
+- Rental Car Catalog Information System (Naivara Transgroup)
 - Pencak Silat Analyzer For UNESA students majoring in Sports Science
+- Course Project: Creating an information system for UMKM
 
 ## Contact
 Email: akhmadabdullahsyakirmi1a@gmail.com
